@@ -1,0 +1,8 @@
+- name: "Desktop: KDE (Installed by default)"
+  description: "A nice option"
+  hidden: false
+  selected: true
+  critical: false
+  expanded: false
+  packages:
+    - betterarch-kde

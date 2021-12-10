@@ -1,0 +1,35 @@
+componentName:  betterarch
+welcomeStyleCalamares:   false
+welcomeExpandingLogo:   true
+windowExpanding:    normal
+windowSize: 800px,520px
+windowPlacement: center
+sidebar: widget
+navigation: widget
+
+strings:
+    productName:         BetterArch
+    shortProductName:    BetterArch
+    version:             2021.01.1
+    shortVersion:        2021.01.1
+    versionedName:       BetterArch
+    shortVersionedName:  BetterArch
+    bootloaderEntryName: BetterArch
+
+images:
+    productIcon:         "betterarch-logo.png"
+    productLogo:         "betterarch-logo.png"
+    productWelcome:      "languages.png"
+
+style:
+   sidebarBackground:    "#282a36"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#FFFFFF"
+   sidebarTextHighlight: "#81A1C1"
+
+slideshow:               "show.qml"
+slideshowAPI: 2
+
+uploadServer :
+    type :    "fiche"
+    url :     "http://termbin.com:9999"
